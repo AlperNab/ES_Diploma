@@ -1,1 +1,1 @@
-
+Please Note that the "Lec 1 Assignment 1" folder and "Lec 2 Assignment 2" folder are the assignments on C Basics.
